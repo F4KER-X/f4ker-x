@@ -1,12 +1,16 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif">
+</p>
 <h1 align="center">Hi 👋, I'm Danny.</h1>
 <h3 align="center">A 2nd year Software Engineer from Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Java, Python, NodeJs**
 
-- 📫 How to reach me **danny.mousa14@gmail.com**
+- 📫 How to reach me **Discord: Faker#1337**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
