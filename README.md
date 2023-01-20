@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Danny.</h1>
-<h3 align="center">A 2nd year Software Engineer and Gamer from Canada</h3>
+<h3 align="center">A 2nd year Software Engineer from Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
